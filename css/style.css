@@ -343,14 +343,15 @@ margin-bottom: 72px;
 }
 
 /*FOOTER*/
-/*.container-footer{
-    display: flex;
-}*/
 
 .post-footer{
     background: #2E2F42;
     padding: 100px 0;
 }
+/*.footer-top{
+    display: flex;
+    
+}*/
 
 .logo-footer{
 display: inline-block;
@@ -375,14 +376,16 @@ margin-bottom: 16px;
     display: flex;
 }
  
-.post-footer-social{
+.footer-socials{
+    display: flex;
+}
+
+.footer-caption{
     color: #FFF;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    /*display: flex;
-    width: 96px;
-    margin-top: 100px;
-    margin-bottom: 188px;*/
+    margin-bottom: 16px;
 }
+
     
