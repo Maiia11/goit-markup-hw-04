@@ -154,6 +154,8 @@ img{
     background-size: cover;
     max-width: 1440px;
     background-position: center;
+    margin: 0 auto;
+
     
 }
 
@@ -433,7 +435,7 @@ margin-bottom: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
     width: 264px;
-    display: flex;
+   /display: flex;
 }
  
 
@@ -447,12 +449,12 @@ margin-bottom: 16px;
 
     
 }
-.footer-socials{
+
+.footer-socials-list{
     display: flex;
     gap: 16px;
     justify-content: center;
     align-items: center;
-    
 }
 
 .footer-socials-item{
